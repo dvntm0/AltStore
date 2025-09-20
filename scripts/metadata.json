@@ -63,9 +63,9 @@
     "subtitle": "A subtle shift from the familiar",
     "appDescription": "Features:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu",
     "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
-    "ipaURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.1.6+8.121.ipa",
-    "versionDescription": "OrwellVK v1.1.6\n\n- Marking voice message and videos as viewed now also marks the message as read\n- Added support for marking messages and media as viewed in group chats\n- Added missing option to disable screenshot notifications\n- Implemented a full-featured popup with detailed update information\n- Improved API handling, fixed an issue where the option to mark certain voice messages as played was missing from the menu",
-    "date": "2025-06-05T22:30:00+03:00",
+    "ipaURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+    "versionDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️",
+    "date": "2025-09-20T05:00:00+03:00",
     "tintColor": "#B5DAFC",
     "screenshots": [
       "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot1.png",

@@ -216,8 +216,8 @@
           "NSBluetoothAlwaysUsageDescription": "Это нужно, чтобы приложение могло найти умные устройства в вашем доме",
           "NSSiriUsageDescription": "Allow to use siri for message announcements",
           "NSCameraUsageDescription": "Allow access to make calls, take photos, create virtual avatars, and record videos, clips and stories, as well as to use the TrueDepth camera to apply effects and masks",
-          "NSHealthUpdateUsageDescription": "Allow access to update number of your steps",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you",
+          "NSHealthUpdateUsageDescription": "Allow access to update number of your steps",
           "NSPhotoLibraryAddUsageDescription": "Allow access to save photos and videos to the library",
           "NSLocalNetworkUsageDescription": "No usage description provided by app's developer",
           "NSHealthShareUsageDescription": "Allow access to use data for VK Run",
@@ -233,12 +233,12 @@
       },
       "versions": [
         {
-          "version": "8.121",
-          "minOSVersion": "15.6",
-          "date": "2025-06-05T22:30:00+03:00",
-          "size": 165909667,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.1.6+8.121.ipa",
-          "localizedDescription": "OrwellVK v1.1.6\n\n- Marking voice message and videos as viewed now also marks the message as read\n- Added support for marking messages and media as viewed in group chats\n- Added missing option to disable screenshot notifications\n- Implemented a full-featured popup with detailed update information\n- Improved API handling, fixed an issue where the option to mark certain voice messages as played was missing from the menu"
+          "version": "8.144.1",
+          "minOSVersion": "16.6",
+          "date": "2025-09-20T05:00:00+03:00",
+          "size": 209551943,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+          "localizedDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️"
         }
       ]
     },

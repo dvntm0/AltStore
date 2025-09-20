@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Patreon",
   "sourceLinkUrl": "https://patreon.com/dayanch96",
   "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "sourceUpdateTime": "2025-09-18T03:25:53+03:00",
+  "sourceUpdateTime": "2025-09-20T04:46:04+03:00",
   "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
   "appCategories": [
     "Apps"
@@ -45,11 +45,11 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2025-06-05T22:30:00+03:00",
+      "appUpdateTime": "2025-09-20T05:00:00+03:00",
       "appName": "OrwellVK",
-      "appVersion": "8.121",
+      "appVersion": "8.144.1",
       "appImage": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.1.6+8.121.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
       "appDescription": "Features:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu"
     },
     {

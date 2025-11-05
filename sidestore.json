@@ -8,10 +8,10 @@
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "dvntm",
       "subtitle": "YouTube Plus with additional tweaks",
-      "version": "20.32.4",
-      "versionDate": "2025-08-11T05:00:00+03:00",
-      "versionDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b3+20.32.4.ipa",
+      "version": "20.42.3",
+      "versionDate": "2025-11-05T06:30:00+03:00",
+      "versionDescription": "YouTube Plus v5.2b4\n\n- Fixed Shorts overlay issues\n- Fixed playback issues\n- Fixed 'Hold to speed' gesture in Shorts\n- Fixed big gap under progress bar when action bar is disabled\n- Fixed colored progress bar issues (now supports gradient color for watched progress)\n- Fixed issue where some buttons under the player were not hiding\n- Fixed transparent background in the 'Explore' sidebar\n- Fixed hiding options in YouTube sheet and added ability to hide the 'Feedback' element\n- Fixed crash on live videos when original captions were set as preferred\n- Fixed 'Remember loop mode' not saving correctly\n- Added option to hide 'Hype' and 'Stop Ads' buttons under the player\n- Added option to hide YouTube snackbars (HUD messages in player)\n- Added option to hide Products in Shorts\n- Added option to remove Comment bar in Shorts\n- Added option to remove Audio button in Shorts\n- Added option to exclude auto-dubbed audio tracks from selection\n- Added 'Tap to seek gesture' in Player settings\n- Added system theme support for YTPlus player toast (playback speed, brightness, volume)\n- Removed vibrancy effect from YTPlus player toast\n- Enabling iPad-style interface now also enables floating keyboard",
+      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
       "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
       "tintColor": "E36678",
@@ -26,7 +26,7 @@
         "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
         "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
       ],
-      "size": 115466859
+      "size": 21795036
     },
     {
       "name": "YouTube Music Ultimate",

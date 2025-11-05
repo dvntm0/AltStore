@@ -15,11 +15,11 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2025-08-11T05:00:00+03:00",
+      "appUpdateTime": "2025-11-05T06:30:00+03:00",
       "appName": "YouTube Plus",
-      "appVersion": "20.32.4",
+      "appVersion": "20.42.3",
       "appImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b3+20.32.4.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
       "appDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings"
     },
     {

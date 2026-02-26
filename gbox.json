@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Patreon",
   "sourceLinkUrl": "https://patreon.com/dayanch96",
   "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "sourceUpdateTime": "2025-09-20T04:46:04+03:00",
+  "sourceUpdateTime": "2026-02-27T01:40:24+03:00",
   "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
   "appCategories": [
     "Apps"
@@ -15,7 +15,7 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2025-11-05T06:30:00+03:00",
+      "appUpdateTime": "2025-08-11T05:00:00+03:00",
       "appName": "YouTube Plus",
       "appVersion": "20.42.3",
       "appImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
@@ -35,11 +35,21 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2025-09-03T11:30:00+03:00",
-      "appName": "Infuse Plus",
+      "appUpdateTime": "2026-02-27T01:30:00+03:00",
+      "appName": "Infuse Plus (iOS18+)",
+      "appVersion": "8.3.9",
+      "appImage": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
+      "appDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2026-02-27T01:30:00+03:00",
+      "appName": "Infuse Plus (iOS15+)",
       "appVersion": "8.2.4",
       "appImage": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.4.1+8.2.4.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
       "appDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab"
     },
     {

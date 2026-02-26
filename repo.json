@@ -64,10 +64,10 @@
         {
           "version": "20.42.3",
           "minOSVersion": "16.0",
-          "date": "2025-11-05T06:30:00+03:00",
-          "size": 21795036,
+          "date": "2025-08-11T05:00:00+03:00",
+          "size": 121795036,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
-          "localizedDescription": "YouTube Plus v5.2b4\n\n- Fixed Shorts overlay issues\n- Fixed playback issues\n- Fixed 'Hold to speed' gesture in Shorts\n- Fixed big gap under progress bar when action bar is disabled\n- Fixed colored progress bar issues (now supports gradient color for watched progress)\n- Fixed issue where some buttons under the player were not hiding\n- Fixed transparent background in the 'Explore' sidebar\n- Fixed hiding options in YouTube sheet and added ability to hide the 'Feedback' element\n- Fixed crash on live videos when original captions were set as preferred\n- Fixed 'Remember loop mode' not saving correctly\n- Added option to hide 'Hype' and 'Stop Ads' buttons under the player\n- Added option to hide YouTube snackbars (HUD messages in player)\n- Added option to hide Products in Shorts\n- Added option to remove Comment bar in Shorts\n- Added option to remove Audio button in Shorts\n- Added option to exclude auto-dubbed audio tracks from selection\n- Added 'Tap to seek gesture' in Player settings\n- Added system theme support for YTPlus player toast (playback speed, brightness, volume)\n- Removed vibrancy effect from YTPlus player toast\n- Enabling iPad-style interface now also enables floating keyboard"
+          "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
         }
       ]
     },
@@ -123,7 +123,60 @@
       ]
     },
     {
-      "name": "Infuse Plus",
+      "name": "Infuse Plus (iOS18+)",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "dvntm",
+      "subtitle": "Enhancer for Infuse app",
+      "localizedDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF8800",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.user-fonts",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby Cast devices",
+          "NSCameraUsageDescription": "Used for scanning QR codes",
+          "NSBluetoothPeripheralUsageDescription": "Used for streaming media to external devices",
+          "NSPhotoLibraryAddUsageDescription": "Used for saving QR code",
+          "NSLocalNetworkUsageDescription": "Used to discover network shares and Google Cast devices in your local network",
+          "NSAppleMusicUsageDescription": "Please allow access in order to show iTunes videos.",
+          "NSMicrophoneUsageDescription": "Used for pairing with external devices",
+          "NSFaceIDUsageDescription": "Used for unlocking your device when restrictions are enabled"
+        }
+      },
+      "versions": [
+        {
+          "version": "8.3.9",
+          "minOSVersion": "18.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 74592875,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        }
+      ]
+    },
+    {
+      "name": "Infuse Plus (iOS15+)",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "dvntm",
       "subtitle": "Enhancer for Infuse app",
@@ -168,10 +221,10 @@
         {
           "version": "8.2.4",
           "minOSVersion": "16.0",
-          "date": "2025-09-03T11:30:00+03:00",
-          "size": 68956117,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.4.1+8.2.4.ipa",
-          "localizedDescription": "Infuse Plus v2.4.1\n\n- Removed vibrancy effect of player toast, now toast follows system theme\n- Added option to automatically clean Infuse trash folder"
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 68974859,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
         }
       ]
     },

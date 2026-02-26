@@ -4,7 +4,7 @@
     "subtitle": "YouTube Plus with additional tweaks",
     "appDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
     "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-    "ipaURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b3+20.32.4.ipa",
+    "ipaURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
     "versionDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload",
     "date": "2025-08-11T05:00:00+03:00",
     "tintColor": "#E36678",

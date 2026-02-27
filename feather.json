@@ -123,7 +123,7 @@
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "dvntm",
       "subtitle": "Enhancer for Infuse app",
-      "localizedDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "localizedDescription": "Features:\n- Requires iOS 18+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
       "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
       "tintColor": "#FF8800",
       "screenshotURLs": [
@@ -174,11 +174,11 @@
       "size": 74592875
     },
     {
-      "name": "Infuse Plus (iOS15+)",
+      "name": "Infuse Plus (iOS16+)",
       "bundleIdentifier": "com.firecore.infuse",
       "developerName": "dvntm",
       "subtitle": "Enhancer for Infuse app",
-      "localizedDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "localizedDescription": "Features:\n- Requires iOS 16+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
       "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
       "tintColor": "#FF8800",
       "screenshotURLs": [

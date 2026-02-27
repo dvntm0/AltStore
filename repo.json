@@ -13,289 +13,6 @@
   ],
   "apps": [
     {
-      "name": "YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "dvntm",
-      "subtitle": "YouTube Plus with additional tweaks",
-      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "tintColor": "#E36678",
-      "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.developer.device-information.user-assigned-device-name",
-          "com.apple.developer.group-session",
-          "com.apple.developer.networking.multicast",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.siri",
-          "com.apple.developer.storekit.request-data",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.security.application-groups",
-          "keychain-access-groups"
-        ],
-        "privacy": {
-          "NSCameraUsageDescription": "This lets you create videos using the app.",
-          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
-        }
-      },
-      "versions": [
-        {
-          "version": "20.42.3",
-          "minOSVersion": "16.0",
-          "date": "2025-08-11T05:00:00+03:00",
-          "size": 121795036,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
-          "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
-        }
-      ]
-    },
-    {
-      "name": "YouTube Music Ultimate",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "dvntm",
-      "subtitle": "The best enhancer for YouTube Music on iOS",
-      "localizedDescription": "Features:\n- Download audios, cover images\n- Remove ads\n- Background playback\n- Interface customization: Remove tabs or other elements, enable OLED mode\n- Player settings: Modify player elements, default playback mode\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Music Ultimate preferences can be found under YouTube Music settings",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png",
-      "tintColor": "#FF0033",
-      "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn1.png",
-        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn2.png",
-        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn3.png",
-        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn4.png",
-        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn5.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.carplay-audio",
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.developer.mediasetup",
-          "com.apple.developer.networking.multicast",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.siri",
-          "com.apple.security.application-groups",
-          "keychain-access-groups"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
-          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
-          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "7.33.2",
-          "minOSVersion": "15.0",
-          "date": "2025-01-09T18:30:00+03:00",
-          "size": 77871912,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytmu_7.33.2.ipa",
-          "localizedDescription": "YouTube Music Ultimate v2.3.1\n\n- Fixed downloads tab not working\n- Fixed local network permissions"
-        }
-      ]
-    },
-    {
-      "name": "Infuse Plus (iOS18+)",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "dvntm",
-      "subtitle": "Enhancer for Infuse app",
-      "localizedDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
-      "tintColor": "#FF8800",
-      "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.networking.multicast",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.user-fonts",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby Cast devices",
-          "NSCameraUsageDescription": "Used for scanning QR codes",
-          "NSBluetoothPeripheralUsageDescription": "Used for streaming media to external devices",
-          "NSPhotoLibraryAddUsageDescription": "Used for saving QR code",
-          "NSLocalNetworkUsageDescription": "Used to discover network shares and Google Cast devices in your local network",
-          "NSAppleMusicUsageDescription": "Please allow access in order to show iTunes videos.",
-          "NSMicrophoneUsageDescription": "Used for pairing with external devices",
-          "NSFaceIDUsageDescription": "Used for unlocking your device when restrictions are enabled"
-        }
-      },
-      "versions": [
-        {
-          "version": "8.3.9",
-          "minOSVersion": "18.0",
-          "date": "2026-02-27T01:30:00+03:00",
-          "size": 74592875,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
-          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
-        }
-      ]
-    },
-    {
-      "name": "Infuse Plus (iOS15+)",
-      "bundleIdentifier": "com.firecore.infuse",
-      "developerName": "dvntm",
-      "subtitle": "Enhancer for Infuse app",
-      "localizedDescription": "Features:\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
-      "tintColor": "#FF8800",
-      "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
-        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.networking.multicast",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.user-fonts",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby Cast devices",
-          "NSCameraUsageDescription": "Used for scanning QR codes",
-          "NSBluetoothPeripheralUsageDescription": "Used for streaming media to external devices",
-          "NSPhotoLibraryAddUsageDescription": "Used for saving QR code",
-          "NSLocalNetworkUsageDescription": "Used to discover network shares and Google Cast devices in your local network",
-          "NSAppleMusicUsageDescription": "Please allow access in order to show iTunes videos.",
-          "NSMicrophoneUsageDescription": "Used for pairing with external devices",
-          "NSFaceIDUsageDescription": "Used for unlocking your device when restrictions are enabled"
-        }
-      },
-      "versions": [
-        {
-          "version": "8.2.4",
-          "minOSVersion": "16.0",
-          "date": "2026-02-27T01:30:00+03:00",
-          "size": 68974859,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
-          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
-        }
-      ]
-    },
-    {
-      "name": "OrwellVK",
-      "bundleIdentifier": "com.vk.vkclient",
-      "developerName": "dvntm",
-      "subtitle": "A subtle shift from the familiar",
-      "localizedDescription": "Features:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu",
-      "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
-      "tintColor": "#B5DAFC",
-      "screenshots": [
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot1.png",
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot2.png",
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot3.png",
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot4.png",
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot5.png",
-        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot6.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.carplay-audio",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.networking.multicast",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.payment-pass-provisioning",
-          "com.apple.developer.siri",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.security.application-groups",
-          "keychain-access-groups"
-        ],
-        "privacy": {
-          "NSBluetoothAlwaysUsageDescription": "Это нужно, чтобы приложение могло найти умные устройства в вашем доме",
-          "NSSiriUsageDescription": "Allow to use siri for message announcements",
-          "NSCameraUsageDescription": "Allow access to make calls, take photos, create virtual avatars, and record videos, clips and stories, as well as to use the TrueDepth camera to apply effects and masks",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you",
-          "NSHealthUpdateUsageDescription": "Allow access to update number of your steps",
-          "NSPhotoLibraryAddUsageDescription": "Allow access to save photos and videos to the library",
-          "NSLocalNetworkUsageDescription": "No usage description provided by app's developer",
-          "NSHealthShareUsageDescription": "Allow access to use data for VK Run",
-          "NSSpeechRecognitionUsageDescription": "Allow access to recognise voice messages",
-          "NSCalendarsUsageDescription": "Allow access to add events",
-          "NSMicrophoneUsageDescription": "Allow access to record videos and voice messages",
-          "NSLocationWhenInUseUsageDescription": "Location is used when attached to a message or post and to improve recommendations for your news feed",
-          "NSFaceIDUsageDescription": "Used for authorization in VK Pay and VK Mini Apps",
-          "NSCalendarsFullAccessUsageDescription": "Allow access to read and edit events",
-          "NSContactsUsageDescription": "Allow access to search friends in your contacts",
-          "NSPhotoLibraryUsageDescription": "Allow access to select photos and videos from the library"
-        }
-      },
-      "versions": [
-        {
-          "version": "8.144.1",
-          "minOSVersion": "16.6",
-          "date": "2025-09-20T05:00:00+03:00",
-          "size": 209551943,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
-          "localizedDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️"
-        }
-      ]
-    },
-    {
       "name": "Glow for Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "dvntm",
@@ -421,6 +138,244 @@
           "size": 73615608,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/flow_1.0+511.0.ipa",
           "localizedDescription": "- Initial release"
+        }
+      ]
+    },
+    {
+      "name": "Infuse Plus (iOS18+)",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "dvntm",
+      "subtitle": "Enhancer for Infuse app",
+      "localizedDescription": "Features:\n- Requires iOS 18+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF8800",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.user-fonts",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Used to discover nearby Cast devices",
+          "NSCameraUsageDescription": "Used for scanning QR codes",
+          "NSBluetoothPeripheralUsageDescription": "Used for streaming media to external devices",
+          "NSPhotoLibraryAddUsageDescription": "Used for saving QR code",
+          "NSLocalNetworkUsageDescription": "Used to discover network shares and Google Cast devices in your local network",
+          "NSAppleMusicUsageDescription": "Please allow access in order to show iTunes videos.",
+          "NSMicrophoneUsageDescription": "Used for pairing with external devices",
+          "NSFaceIDUsageDescription": "Used for unlocking your device when restrictions are enabled"
+        }
+      },
+      "versions": [
+        {
+          "version": "8.3.9",
+          "minOSVersion": "18.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 74592875,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        },
+        {
+          "version": "8.2.4",
+          "minOSVersion": "16.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 68974859,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "dvntm",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.device-information.user-assigned-device-name",
+          "com.apple.developer.group-session",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.developer.storekit.request-data",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
+        }
+      },
+      "versions": [
+        {
+          "version": "20.42.3",
+          "minOSVersion": "16.0",
+          "date": "2025-08-11T05:00:00+03:00",
+          "size": 121795036,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+          "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "dvntm",
+      "subtitle": "The best enhancer for YouTube Music on iOS",
+      "localizedDescription": "Features:\n- Download audios, cover images\n- Remove ads\n- Background playback\n- Interface customization: Remove tabs or other elements, enable OLED mode\n- Player settings: Modify player elements, default playback mode\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Music Ultimate preferences can be found under YouTube Music settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF0033",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn1.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn2.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn3.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn4.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn5.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.mediasetup",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.siri",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.33.2",
+          "minOSVersion": "15.0",
+          "date": "2025-01-09T18:30:00+03:00",
+          "size": 77871912,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytmu_7.33.2.ipa",
+          "localizedDescription": "YouTube Music Ultimate v2.3.1\n\n- Fixed downloads tab not working\n- Fixed local network permissions"
+        }
+      ]
+    },
+    {
+      "name": "OrwellVK",
+      "bundleIdentifier": "com.vk.vkclient",
+      "developerName": "dvntm",
+      "subtitle": "A subtle shift from the familiar",
+      "localizedDescription": "Features:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+      "tintColor": "#B5DAFC",
+      "screenshots": [
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot6.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.networking.multicast",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.payment-pass-provisioning",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Это нужно, чтобы приложение могло найти умные устройства в вашем доме",
+          "NSSiriUsageDescription": "Allow to use siri for message announcements",
+          "NSCameraUsageDescription": "Allow access to make calls, take photos, create virtual avatars, and record videos, clips and stories, as well as to use the TrueDepth camera to apply effects and masks",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you",
+          "NSHealthUpdateUsageDescription": "Allow access to update number of your steps",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to save photos and videos to the library",
+          "NSLocalNetworkUsageDescription": "No usage description provided by app's developer",
+          "NSHealthShareUsageDescription": "Allow access to use data for VK Run",
+          "NSSpeechRecognitionUsageDescription": "Allow access to recognise voice messages",
+          "NSCalendarsUsageDescription": "Allow access to add events",
+          "NSMicrophoneUsageDescription": "Allow access to record videos and voice messages",
+          "NSLocationWhenInUseUsageDescription": "Location is used when attached to a message or post and to improve recommendations for your news feed",
+          "NSFaceIDUsageDescription": "Used for authorization in VK Pay and VK Mini Apps",
+          "NSCalendarsFullAccessUsageDescription": "Allow access to read and edit events",
+          "NSContactsUsageDescription": "Allow access to search friends in your contacts",
+          "NSPhotoLibraryUsageDescription": "Allow access to select photos and videos from the library"
+        }
+      },
+      "versions": [
+        {
+          "version": "8.144.1",
+          "minOSVersion": "16.6",
+          "date": "2025-09-20T05:00:00+03:00",
+          "size": 209551943,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+          "localizedDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️"
         }
       ]
     }

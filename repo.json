@@ -199,6 +199,14 @@
           "size": 68974859,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
           "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        },
+        {
+          "version": "7.8.4",
+          "minOSVersion": "14.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 68131742,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+7.8.4.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
         }
       ]
     },

@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Patreon",
   "sourceLinkUrl": "https://patreon.com/dayanch96",
   "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "sourceUpdateTime": "2026-02-27T17:55:51+03:00",
+  "sourceUpdateTime": "2026-02-27T18:25:30+03:00",
   "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
   "appCategories": [
     "Apps"
@@ -51,6 +51,16 @@
       "appImage": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
       "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
       "appDescription": "Features:\n- Requires iOS 16+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab"
+    },
+    {
+      "appType": "SELF_SIGN",
+      "appCateIndex": 0,
+      "appUpdateTime": "2026-02-27T01:30:00+03:00",
+      "appName": "Infuse Plus (iOS14+)",
+      "appVersion": "7.8.4",
+      "appImage": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+7.8.4.ipa",
+      "appDescription": "Features:\n- Requires iOS 14+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab"
     },
     {
       "appType": "SELF_SIGN",

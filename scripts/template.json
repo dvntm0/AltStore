@@ -64,5 +64,8 @@
       "repoIcon": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png"
     },
     "Tweaked": "{{apps}}"
+  },
+  "raw_repo.json": {
+    "apps": "{{apps}}"
   }
 }

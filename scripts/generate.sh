@@ -141,6 +141,7 @@ ESIGN_JSON="$SCRIPT_DIR/../esign.json"
 GBOX_JSON="$SCRIPT_DIR/../gbox.json"
 FEATHER_JSON="$SCRIPT_DIR/../feather.json"
 SCARLET_JSON="$SCRIPT_DIR/../scarlet.json"
+RAW_REPO_JSON="$SCRIPT_DIR/../raw_repo.json"
 
 echo "Generating store json files..."
 generate_store_json() {
@@ -276,6 +277,36 @@ generate_store_json "feather.json" "$FEATHER_JSON" "apps" 'map({
     entitlements: .entitlements,
     privacy: .privacy
   },
+  versions: (
+    [{
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }]
+    + (.extraVersions | map({
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }))
+  ),
+  version: .version,
+  size: .size
+})' "$APPS_MERGED_JSON"
+
+generate_store_json "raw_repo.json" "$RAW_REPO_JSON" "apps" 'map({
+  name: .displayName,
+  bundleIdentifier: .bundleIdentifier,
+  subtitle: .subtitle,
+  localizedDescription: .description,
+  iconURL: .iconURL,
+  tintColor: .tintColor,
+  screenshotURLs: .screenshots,
   versions: [{
     version: .version,
     minOSVersion: .minOSVersion,

@@ -6,6 +6,7 @@ METADATA_JSON="$SCRIPT_DIR/metadata.json"
 PRESETS_JSON="$SCRIPT_DIR/template.json"
 WORKDIR=$(mktemp -d)
 APPS_FULL_JSON="$WORKDIR/apps_full.json"
+APPS_MERGED_JSON="$WORKDIR/apps_merged.json"
 SOURCE_UPDATE_TIME=$(TZ=Europe/Moscow date +"%Y-%m-%dT%H:%M:%S+03:00")
 
 cleanup() {
@@ -113,6 +114,26 @@ done
 
 echo
 echo "apps_full.json has been successfully generated"
+echo "Merging duplicate bundle IDs for repo/sidestore..."
+
+jq '
+  group_by(.bundleIdentifier) |
+  map(
+    sort_by(.version | split(".") | map(tonumber)) | reverse |
+    .[0] as $primary |
+    (.[1:] | map({
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      versionDescription: .versionDescription
+    })) as $extra |
+    $primary + { extraVersions: $extra }
+  )
+' "$APPS_FULL_JSON" > "$APPS_MERGED_JSON"
+
+echo "Merge complete"
 
 ALTSTORE_JSON="$SCRIPT_DIR/../repo.json"
 SIDESTORE_JSON="$SCRIPT_DIR/../sidestore.json"
@@ -127,6 +148,7 @@ generate_store_json() {
   local output_file=$2
   local apps_key=$3
   local jq_transform=$4
+  local source_file="${5:-$APPS_FULL_JSON}"
 
   echo "Creating $output_file..."
 
@@ -136,7 +158,7 @@ generate_store_json() {
     exit 1
   fi
 
-  apps_array=$(jq "$jq_transform" "$APPS_FULL_JSON")
+  apps_array=$(jq "$jq_transform" "$source_file")
 
   if [[ "$store_key" == "gbox.json" ]]; then
     echo "$preset" | jq --argjson apps "$apps_array" --arg sourceUpdateTime "$SOURCE_UPDATE_TIME" \
@@ -165,31 +187,54 @@ generate_store_json "repo.json" "$ALTSTORE_JSON" "apps" 'map({
     entitlements: .entitlements,
     privacy: .privacy
   },
-  versions: [{
-    version: .version,
-    minOSVersion: .minOSVersion,
-    date: .date,
-    size: .size,
-    downloadURL: .downloadURL,
-    localizedDescription: .versionDescription
-  }]
-})'
+  versions: (
+    [{
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }]
+    + (.extraVersions | map({
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }))
+  )
+})' "$APPS_MERGED_JSON"
 
 generate_store_json "sidestore.json" "$SIDESTORE_JSON" "apps" 'map({
   name: .displayName,
   bundleIdentifier: .bundleIdentifier,
   developerName: "dvntm",
   subtitle: .subtitle,
-  version: .version,
-  versionDate: .date,
-  versionDescription: .versionDescription,
-  downloadURL: .downloadURL,
   localizedDescription: .description,
   iconURL: .iconURL,
   tintColor: (.tintColor | sub("^#"; "")),
   screenshotURLs: .screenshots,
-  size: .size
-})'
+  versions: (
+    [{
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }]
+    + (.extraVersions | map({
+      version: .version,
+      minOSVersion: .minOSVersion,
+      date: .date,
+      size: .size,
+      downloadURL: .downloadURL,
+      localizedDescription: .versionDescription
+    }))
+  )
+})' "$APPS_MERGED_JSON"
 
 generate_store_json "esign.json" "$ESIGN_JSON" "apps" 'map({
   name: .displayName,
@@ -231,16 +276,14 @@ generate_store_json "feather.json" "$FEATHER_JSON" "apps" 'map({
     entitlements: .entitlements,
     privacy: .privacy
   },
-  versions: [
-    {
+  versions: [{
     version: .version,
     minOSVersion: .minOSVersion,
     date: .date,
     size: .size,
     downloadURL: .downloadURL,
     localizedDescription: .versionDescription
-    }
-  ],
+  }],
   version: .version,
   size: .size
 })'

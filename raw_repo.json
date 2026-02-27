@@ -1,0 +1,227 @@
+{
+  "apps": [
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "versions": [
+        {
+          "version": "20.42.3",
+          "minOSVersion": "16.0",
+          "date": "2025-08-11T05:00:00+03:00",
+          "size": 121795036,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2b4+20.42.3.ipa",
+          "localizedDescription": "YouTube Plus v5.2b3\n\nAttempts to fix playback issues on sideload"
+        }
+      ],
+      "version": "20.42.3",
+      "size": 121795036
+    },
+    {
+      "name": "YouTube Music Ultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "subtitle": "The best enhancer for YouTube Music on iOS",
+      "localizedDescription": "Features:\n- Download audios, cover images\n- Remove ads\n- Background playback\n- Interface customization: Remove tabs or other elements, enable OLED mode\n- Player settings: Modify player elements, default playback mode\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Music Ultimate preferences can be found under YouTube Music settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF0033",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn1.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn2.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn3.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn4.png",
+        "https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/scrn5.png"
+      ],
+      "versions": [
+        {
+          "version": "7.33.2",
+          "minOSVersion": "15.0",
+          "date": "2025-01-09T18:30:00+03:00",
+          "size": 77871912,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytmu_7.33.2.ipa",
+          "localizedDescription": "YouTube Music Ultimate v2.3.1\n\n- Fixed downloads tab not working\n- Fixed local network permissions"
+        }
+      ],
+      "version": "7.33.2",
+      "size": 77871912
+    },
+    {
+      "name": "Infuse Plus (iOS18+)",
+      "bundleIdentifier": "com.firecore.infuse",
+      "subtitle": "Enhancer for Infuse app",
+      "localizedDescription": "Features:\n- Requires iOS 18+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF8800",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
+      ],
+      "versions": [
+        {
+          "version": "8.3.9",
+          "minOSVersion": "18.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 74592875,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        }
+      ],
+      "version": "8.3.9",
+      "size": 74592875
+    },
+    {
+      "name": "Infuse Plus (iOS16+)",
+      "bundleIdentifier": "com.firecore.infuse",
+      "subtitle": "Enhancer for Infuse app",
+      "localizedDescription": "Features:\n- Requires iOS 16+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF8800",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
+      ],
+      "versions": [
+        {
+          "version": "8.2.4",
+          "minOSVersion": "16.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 68974859,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        }
+      ],
+      "version": "8.2.4",
+      "size": 68974859
+    },
+    {
+      "name": "Infuse Plus (iOS14+)",
+      "bundleIdentifier": "com.firecore.infuse",
+      "subtitle": "Enhancer for Infuse app",
+      "localizedDescription": "Features:\n- Requires iOS 14+\n- Pro features\n- Background playback\n- Double tap to Play/Pause gesture\n- Custom seek time for Seek Forward/Backward buttons\n- Custom double tap to skip time\n- And more\n\nNote: Infuse Plus preferences can be found in the Settings tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png",
+      "tintColor": "#FF8800",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png"
+      ],
+      "versions": [
+        {
+          "version": "7.8.4",
+          "minOSVersion": "14.0",
+          "date": "2026-02-27T01:30:00+03:00",
+          "size": 68131742,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+7.8.4.ipa",
+          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+        }
+      ],
+      "version": "7.8.4",
+      "size": 68131742
+    },
+    {
+      "name": "OrwellVK",
+      "bundleIdentifier": "com.vk.vkclient",
+      "subtitle": "A subtle shift from the familiar",
+      "localizedDescription": "Features:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+      "tintColor": "#B5DAFC",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot1.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot2.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot3.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot4.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot5.png",
+        "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/screenshot6.png"
+      ],
+      "versions": [
+        {
+          "version": "8.144.1",
+          "minOSVersion": "16.6",
+          "date": "2025-09-20T05:00:00+03:00",
+          "size": 209551943,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+          "localizedDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️"
+        }
+      ],
+      "version": "8.144.1",
+      "size": 209551943
+    },
+    {
+      "name": "Glow for Facebook",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "subtitle": "Cleaner. Smarter. Yours.",
+      "localizedDescription": "Features:\n- Download whatever you like — videos, images, Reels, and even stories\n- Stay unseen. View stories and mark them as seen only when you want to\n- Worried about accidental likes? Now you can relax\n- Flexible, intuitive settings — all tailored to you\n\nGlow settings are available via long press on any tab",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/icon.png",
+      "tintColor": "#B5DAFC",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Glow/refs/heads/main/Sileo/screenshot6.jpg"
+      ],
+      "versions": [
+        {
+          "version": "519.0.0",
+          "minOSVersion": "15.1",
+          "date": "2025-06-25T18:00:00+03:00",
+          "size": 170243561,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/glow_1.3.1+519.0.ipa",
+          "localizedDescription": "Glow v1.3.1\n- Faster video re-encoding by improved audio processing\n- Added support for Turkish language"
+        }
+      ],
+      "version": "519.0.0",
+      "size": 170243561
+    },
+    {
+      "name": "Flow for Messenger",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "subtitle": "A lightweight Messenger enhancer",
+      "localizedDescription": "Features:\n- Remove ads\n- Remove stories banner\n- Remove 'People you may know'\n- Disable typing indicator\n- Read messages anonymously\n- Watch stories anonymously\n- Loop stories\n- Download stories\n- Remove 'Stories' tab\n- Remove 'Friends' tab\n- Remove AI circle\n- Require call confirmation",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/icon.png",
+      "tintColor": "#AF38EB",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/screenshot1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/screenshot2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Flow/refs/heads/main/Sileo/screenshot3.jpg"
+      ],
+      "versions": [
+        {
+          "version": "511.0.0",
+          "minOSVersion": "15.1",
+          "date": "2025-06-14T18:15:00+03:00",
+          "size": 73615608,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/flow_1.0+511.0.ipa",
+          "localizedDescription": "- Initial release"
+        }
+      ],
+      "version": "511.0.0",
+      "size": 73615608
+    }
+  ]
+}

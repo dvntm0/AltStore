@@ -1,0 +1,125 @@
+{
+  "apps": [
+    {
+      "name": "YouTube Plus (iOS16+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "versions": [
+        {
+          "version": "21.16.2",
+          "minOSVersion": "16.0",
+          "date": "2026-04-23T21:00:00+03:00",
+          "size": 7571126,
+          "downloadURL": "https://github.com/dvntm0/dvntm0.github.io/raw/refs/heads/main/repo/debs/ytplus/com.dvntm.ytlite_5.2.1_iphoneos-arm.deb",
+          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+        }
+      ],
+      "version": "21.16.2",
+      "size": 7571126
+    },
+    {
+      "name": "YouTube Plus (iOS15+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "versions": [
+        {
+          "version": "20.21.6",
+          "minOSVersion": "15.0",
+          "date": "2026-04-23T21:00:00+03:00",
+          "size": 7571126,
+          "downloadURL": "https://github.com/dvntm0/dvntm0.github.io/raw/refs/heads/main/repo/debs/ytplus/com.dvntm.ytlite_5.2.1_iphoneos-arm.deb",
+          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+        }
+      ],
+      "version": "20.21.6",
+      "size": 7571126
+    },
+    {
+      "name": "YouTube Plus (iOS14+)",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "subtitle": "YouTube Plus with additional tweaks",
+      "localizedDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
+      "tintColor": "#E36678",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
+      ],
+      "versions": [
+        {
+          "version": "19.20.2",
+          "minOSVersion": "14.0",
+          "date": "2026-04-23T21:00:00+03:00",
+          "size": 7571126,
+          "downloadURL": "https://github.com/dvntm0/dvntm0.github.io/raw/refs/heads/main/repo/debs/ytplus/com.dvntm.ytlite_5.2.1_iphoneos-arm.deb",
+          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+        }
+      ],
+      "version": "19.20.2",
+      "size": 7571126
+    },
+    {
+      "name": "Tweach",
+      "bundleIdentifier": "tv.twitch",
+      "subtitle": "Download your favorite Clips, VODs and Live Streams with Tweach",
+      "localizedDescription": "Features:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*",
+      "iconURL": "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/icon.png",
+      "tintColor": "#864AF6",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img3.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img4.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/img6.jpg"
+      ],
+      "versions": [
+        {
+          "version": "29.1",
+          "minOSVersion": "16.4",
+          "date": "2026-04-24T20:00:00+03:00",
+          "size": 6931013,
+          "downloadURL": "https://github.com/dvntm0/dvntm0.github.io/raw/refs/heads/main/repo/debs/tweach/com.dvntm.tweach_2.3.2_iphoneos-arm.deb",
+          "localizedDescription": "Tweach v2.3.3:\n- Fixed swipe-up gesture on tab bar\n- Fixed alert actions not working (Import settings, Log out, and etc.)"
+        }
+      ],
+      "version": "29.1",
+      "size": 6931013
+    }
+  ]
+}

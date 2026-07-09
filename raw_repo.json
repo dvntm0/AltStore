@@ -23,13 +23,13 @@
           "version": "21.16.2",
           "minOSVersion": "16.0",
           "date": "2026-04-23T21:00:00+03:00",
-          "size": 123012387,
+          "size": 122849605,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+21.16.2.ipa",
           "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
         }
       ],
       "version": "21.16.2",
-      "size": 123012387
+      "size": 122849605
     },
     {
       "name": "YouTube Plus (iOS15+)",
@@ -54,13 +54,13 @@
           "version": "20.21.6",
           "minOSVersion": "15.0",
           "date": "2026-04-23T21:00:00+03:00",
-          "size": 115358827,
+          "size": 115196051,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+20.21.6.ipa",
           "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
         }
       ],
       "version": "20.21.6",
-      "size": 115358827
+      "size": 115196051
     },
     {
       "name": "YouTube Plus (iOS14+)",
@@ -85,13 +85,13 @@
           "version": "19.20.2",
           "minOSVersion": "14.0",
           "date": "2026-04-23T21:00:00+03:00",
-          "size": 109571126,
+          "size": 109408347,
           "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+19.20.2.ipa",
           "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
         }
       ],
       "version": "19.20.2",
-      "size": 109571126
+      "size": 109408347
     },
     {
       "name": "YouTube Music Ultimate (iOS16+)",
@@ -164,16 +164,16 @@
       ],
       "versions": [
         {
-          "version": "8.3.9",
+          "version": "8.4.8",
           "minOSVersion": "18.0",
-          "date": "2026-02-27T01:30:00+03:00",
-          "size": 74592875,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.3.9.ipa",
-          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+          "date": "2026-07-09T08:00:00+03:00",
+          "size": 97743305,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+8.4.8.ipa",
+          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
         }
       ],
-      "version": "8.3.9",
-      "size": 74592875
+      "version": "8.4.8",
+      "size": 97743305
     },
     {
       "name": "Infuse Plus (iOS16+)",
@@ -194,14 +194,14 @@
         {
           "version": "8.2.4",
           "minOSVersion": "16.0",
-          "date": "2026-02-27T01:30:00+03:00",
-          "size": 68974859,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+8.2.4.ipa",
-          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+          "date": "2026-07-09T08:00:00+03:00",
+          "size": 68942034,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+8.2.4.ipa",
+          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
         }
       ],
       "version": "8.2.4",
-      "size": 68974859
+      "size": 68942034
     },
     {
       "name": "Infuse Plus (iOS14+)",
@@ -222,14 +222,14 @@
         {
           "version": "7.8.4",
           "minOSVersion": "14.0",
-          "date": "2026-02-27T01:30:00+03:00",
-          "size": 68131742,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.5+7.8.4.ipa",
-          "localizedDescription": "Infuse Plus v2.5\n\n- Tweak core has been fully rewritten\n- Settings have been optimized for iPad\n- Improved gesture interaction\n- Fixed an issue with the loop button visibility\n- Added overlay lock feature\n- Added vertical and horizontal video mirroring\n- Added an option to mute the player only\n- Added support for Infuse 8.2.5 and later"
+          "date": "2026-07-09T08:00:00+03:00",
+          "size": 68098747,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+7.8.4.ipa",
+          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
         }
       ],
       "version": "7.8.4",
-      "size": 68131742
+      "size": 68098747
     },
     {
       "name": "OrwellVK",

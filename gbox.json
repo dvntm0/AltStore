@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Patreon",
   "sourceLinkUrl": "https://patreon.com/dayanch96",
   "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "sourceUpdateTime": "2026-07-09T07:45:30+03:00",
+  "sourceUpdateTime": "2026-07-17T06:47:53+03:00",
   "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
   "appCategories": [
     "Apps"
@@ -15,31 +15,31 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2026-04-23T21:00:00+03:00",
+      "appUpdateTime": "2026-07-17T07:00:00+03:00",
       "appName": "YouTube Plus (iOS16+)",
       "appVersion": "21.16.2",
       "appImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+21.16.2.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+21.16.2.ipa",
       "appDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings"
     },
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2026-04-23T21:00:00+03:00",
+      "appUpdateTime": "2026-07-17T07:00:00+03:00",
       "appName": "YouTube Plus (iOS15+)",
       "appVersion": "20.21.6",
       "appImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+20.21.6.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+20.21.6.ipa",
       "appDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings"
     },
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2026-04-23T21:00:00+03:00",
+      "appUpdateTime": "2026-07-17T07:00:00+03:00",
       "appName": "YouTube Plus (iOS14+)",
       "appVersion": "19.20.2",
       "appImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+19.20.2.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+19.20.2.ipa",
       "appDescription": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings"
     },
     {

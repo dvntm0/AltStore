@@ -8,34 +8,34 @@
       "name": "YouTube Plus (iOS16+)",
       "version": "21.16.2",
       "icon": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+21.16.2.ipa",
+      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+21.16.2.ipa",
       "category": "Tweaked Apps",
       "description": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "bundleID": "com.google.ios.youtube",
       "appstore": "com.google.ios.youtube",
-      "changelog": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+      "changelog": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
     },
     {
       "name": "YouTube Plus (iOS15+)",
       "version": "20.21.6",
       "icon": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+20.21.6.ipa",
+      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+20.21.6.ipa",
       "category": "Tweaked Apps",
       "description": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "bundleID": "com.google.ios.youtube",
       "appstore": "com.google.ios.youtube",
-      "changelog": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+      "changelog": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
     },
     {
       "name": "YouTube Plus (iOS14+)",
       "version": "19.20.2",
       "icon": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+19.20.2.ipa",
+      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+19.20.2.ipa",
       "category": "Tweaked Apps",
       "description": "This version contains YouTube Plus, YouPiP, YTUHD, Return YouTube Dislikes and Open in Safari extension\n\nFeatures:\n- Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n- Copy video, comment, and post information\n- Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n- Player settings: Gestures, default quality, preferred audio track\n- Save, Load and Restore settings. Clear cache once or automatically on app startup\n- Built-in SponsorBlock\n- And much, much more\n\nYouTube Plus preferences can be found in the YouTube settings",
       "bundleID": "com.google.ios.youtube",
       "appstore": "com.google.ios.youtube",
-      "changelog": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+      "changelog": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
     },
     {
       "name": "YouTube Music Ultimate (iOS16+)",

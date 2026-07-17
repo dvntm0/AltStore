@@ -131,26 +131,26 @@
         {
           "version": "21.16.2",
           "minOSVersion": "16.0",
-          "date": "2026-04-23T21:00:00+03:00",
-          "size": 122849605,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+21.16.2.ipa",
-          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+          "date": "2026-07-17T07:00:00+03:00",
+          "size": 122826892,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+21.16.2.ipa",
+          "localizedDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
         },
         {
           "version": "20.21.6",
           "minOSVersion": "15.0",
-          "date": "2026-04-23T21:00:00+03:00",
-          "size": 115196051,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+20.21.6.ipa",
-          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+          "date": "2026-07-17T07:00:00+03:00",
+          "size": 115173409,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+20.21.6.ipa",
+          "localizedDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
         },
         {
           "version": "19.20.2",
           "minOSVersion": "14.0",
-          "date": "2026-04-23T21:00:00+03:00",
-          "size": 109408347,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.1+19.20.2.ipa",
-          "localizedDescription": "YouTube Plus v5.2.1\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\nFIXED:\n - Fixed settings not updating correctly\n - Fixed crashes when navigating to certain cells from search results\n - Fixed incorrect playback speed display in controls\n - Fixed visual glitch in live video ring\n\nIMPROVED:\n - Improved SponsorBlock skip logic\n - Improved swipe-to-seek with real-time timestamp display\n - Improved Control Center skip forward/backward actions\n\nADDED:\n - Added option to hide the 'More videos' button in the overlay"
+          "date": "2026-07-17T07:00:00+03:00",
+          "size": 109385656,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ytp_5.2.2+19.20.2.ipa",
+          "localizedDescription": "YouTube Plus v5.2.2\n\nIMPORTANT: Starting from this version, YTPlus requires an active Patreon subscription for full access. If you prefer free usage, please stay on version 5.2b4.\n\n- New account system (check it out in YTPlus Settings)\n- Fixed Download button not working with the new YouTube interface\n- Fixed progress bar coloring on the latest YouTube versions\n- Fixed SponsorBlock skipping issues\n- Fixed an issue where player gestures couldn't set brightness to 0\n- Fixed the option to hide the More videos button for playlists in the player overlay\n- Hidden new ads"
         }
       ]
     },

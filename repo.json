@@ -454,12 +454,12 @@
       },
       "versions": [
         {
-          "version": "29.1",
+          "version": "30.4.2",
           "minOSVersion": "16.4",
-          "date": "2026-04-24T20:00:00+03:00",
-          "size": 143131013,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.3.3+29.1.ipa",
-          "localizedDescription": "Tweach v2.3.3:\n- Fixed swipe-up gesture on tab bar\n- Fixed alert actions not working (Import settings, Log out, and etc.)"
+          "date": "2026-07-28T11:30:00+03:00",
+          "size": 142637142,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4+30.4.2.ipa",
+          "localizedDescription": "Tweach v2.4:\n- New account system (check it out in Tweach Settings)\n- Fixed player issues\n- TwitchAdBlock improvements"
         }
       ]
     }

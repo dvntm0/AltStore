@@ -6,7 +6,7 @@
   "sourceLinkTitle": "Patreon",
   "sourceLinkUrl": "https://patreon.com/dayanch96",
   "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
-  "sourceUpdateTime": "2026-07-28T11:32:56+03:00",
+  "sourceUpdateTime": "2026-08-03T08:14:28+03:00",
   "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
   "appCategories": [
     "Apps"
@@ -125,11 +125,11 @@
     {
       "appType": "SELF_SIGN",
       "appCateIndex": 0,
-      "appUpdateTime": "2026-07-28T11:30:00+03:00",
+      "appUpdateTime": "2026-08-03T08:30:00+03:00",
       "appName": "Tweach",
       "appVersion": "30.4.2",
       "appImage": "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/icon.png",
-      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4+30.4.2.ipa",
+      "appPackage": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4.1+30.4.2.ipa",
       "appDescription": "Features:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*"
     }
   ]

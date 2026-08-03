@@ -129,12 +129,12 @@
       "name": "Tweach",
       "version": "30.4.2",
       "icon": "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/icon.png",
-      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4+30.4.2.ipa",
+      "down": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4.1+30.4.2.ipa",
       "category": "Tweaked Apps",
       "description": "Features:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*",
       "bundleID": "tv.twitch",
       "appstore": "tv.twitch",
-      "changelog": "Tweach v2.4:\n- New account system (check it out in Tweach Settings)\n- Fixed player issues\n- TwitchAdBlock improvements"
+      "changelog": "Tweach v2.4.1:\n- Fixed story crash issue\n- Fixed crashes when entering the Creator Dashboard\n- Added option to check for updates"
     }
   ]
 }

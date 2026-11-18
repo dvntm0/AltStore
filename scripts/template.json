@@ -5,7 +5,7 @@
     "description": "Welcome to the official AltStore repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
     "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
     "headerURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
-    "website": "https://patreon.com/dayanch96",
+    "website": "https://dvntm.com/subscribe",
     "tintColor": "#E36678",
     "featuredApps": [
       "com.google.ios.youtube",
@@ -17,10 +17,10 @@
     {
       "title": "From version 5.2, YTPlus requires a subscription",
       "identifier": "News1",
-      "caption": "Starting from version 5.2, YTPlus requires a Patreon subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
+      "caption": "Starting from version 5.2, YTPlus requires a subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
       "tintColor": "#E36678",
       "imageURL": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/Resources/news1.png",
-      "url": "https://patreon.com/dayanch96",
+      "url": "https://dvntm.com/subscribe",
       "date": "2026-04-22",
       "notify": true
     }
@@ -33,7 +33,7 @@
     "description": "Welcome to the official AltStore repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
     "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
     "headerURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
-    "website": "https://patreon.com/dayanch96",
+    "website": "https://dvntm.com/subscribe",
     "tintColor": "#E36678",
     "featuredApps": [
       "com.google.ios.youtube",
@@ -46,10 +46,10 @@
     {
       "title": "From version 5.2, YTPlus requires a subscription",
       "identifier": "News1",
-      "caption": "Starting from version 5.2, YTPlus requires a Patreon subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
+      "caption": "Starting from version 5.2, YTPlus requires a subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
       "tintColor": "#E36678",
       "imageURL": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/Resources/news1.png",
-      "url": "https://patreon.com/dayanch96",
+      "url": "https://dvntm.com/subscribe",
       "date": "2026-04-22",
       "notify": true
     }
@@ -58,7 +58,7 @@
   "feather.json": {
     "name": "Dan's Workshop",
     "identifier": "com.dvntm.workshop",
-    "website": "https://patreon.com/dayanch96",
+    "website": "https://dvntm.com/subscribe",
     "iconURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
     "apps": "{{apps}}",
     "news": [
@@ -68,17 +68,17 @@
       "caption": "Welcome to the official Feather repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",
       "tintColor": "E36678",
       "imageURL": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/header.png",
-      "url": "https://patreon.com/dayanch96",
+      "url": "https://dvntm.com/subscribe",
       "date": "2025-02-03",
       "notify": true
     },
     {
       "title": "From version 5.2, YTPlus requires a subscription",
       "identifier": "News1",
-      "caption": "Starting from version 5.2, YTPlus requires a Patreon subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
+      "caption": "Starting from version 5.2, YTPlus requires a subscription (activation in YTPlus settings).\n\nThis subscription applies strictly to YTPlus tweak features only and is not affiliated with YouTube or any other tweaks.\n\nThe last free version is 5.2b4.",
       "tintColor": "E36678",
       "imageURL": "https://github.com/dvntm0/AltStore/raw/refs/heads/main/Resources/news1.png",
-      "url": "https://patreon.com/dayanch96",
+      "url": "https://dvntm.com/subscribe",
       "date": "2026-04-22",
       "notify": true
     }
@@ -95,8 +95,8 @@
     "sourceName": "Dan's Workshop",
     "sourceAuthor": "dvntm",
     "sourceExportEnable": true,
-    "sourceLinkTitle": "Patreon",
-    "sourceLinkUrl": "https://patreon.com/dayanch96",
+    "sourceLinkTitle": "Telegram",
+    "sourceLinkUrl": "https://t.me/dvntms",
     "sourceImage": "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png",
     "sourceUpdateTime": "{{sourceUpdateTime}}",
     "sourceDescription": "Welcome to the official GBox repository of Dan's Workshop!\n\nHere, you can explore and download all of my free tweaked apps.",

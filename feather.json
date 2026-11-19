@@ -400,16 +400,16 @@
       },
       "versions": [
         {
-          "version": "8.4.8",
+          "version": "8.5.10",
           "minOSVersion": "18.0",
-          "date": "2026-07-09T08:00:00+03:00",
-          "size": 97743305,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+8.4.8.ipa",
-          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
+          "date": "2026-11-19T014:00:00+03:00",
+          "size": 97568863,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6.1+8.5.10.ipa",
+          "localizedDescription": "Infuse Plus v2.6.1\n\n- Added A-B Loop: an overlay button to loop a part of the video between two points. Set the points from the button menu; turning the loop on jumps to the start point, and seeking outside the range turns it off.\n- Added Tap to Skip: tap anywhere on the progress bar to jump to that position.\n- Added Control Center Skip Time: replaces the previous/next buttons in Control Center and on the Lock Screen with skip back/forward using your custom skip time.\n- Added a per-season episode offset for intros, for shows whose episode numbering differs between TMDB and IntroDB.\n- Custom skip time now also applies to the rewind buttons in the new player controls.\n- Intro segments now load when you turn the option on during playback.\n- Fixed Remember Playback Speed on newer versions of Infuse.\n- Fixed empty intro segments marking the whole episode as an intro.\n- Fixed Dolby Atmos tracks showing as Multichannel. If Remember Playback Speed was on, set the speed to 1.0× manually once."
         }
       ],
-      "version": "8.4.8",
-      "size": 97743305
+      "version": "8.5.10",
+      "size": 97568863
     },
     {
       "name": "Infuse Plus (iOS16+)",
@@ -457,14 +457,14 @@
         {
           "version": "8.2.4",
           "minOSVersion": "16.0",
-          "date": "2026-07-09T08:00:00+03:00",
-          "size": 68942034,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+8.2.4.ipa",
-          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
+          "date": "2026-11-19T014:00:00+03:00",
+          "size": 68959829,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6.1+8.2.4.ipa",
+          "localizedDescription": "Infuse Plus v2.6.1\n\n- Added A-B Loop: an overlay button to loop a part of the video between two points. Set the points from the button menu; turning the loop on jumps to the start point, and seeking outside the range turns it off.\n- Added Tap to Skip: tap anywhere on the progress bar to jump to that position.\n- Added Control Center Skip Time: replaces the previous/next buttons in Control Center and on the Lock Screen with skip back/forward using your custom skip time.\n- Added a per-season episode offset for intros, for shows whose episode numbering differs between TMDB and IntroDB.\n- Custom skip time now also applies to the rewind buttons in the new player controls.\n- Intro segments now load when you turn the option on during playback.\n- Fixed Remember Playback Speed on newer versions of Infuse.\n- Fixed empty intro segments marking the whole episode as an intro.\n- Fixed Dolby Atmos tracks showing as Multichannel. If Remember Playback Speed was on, set the speed to 1.0× manually once."
         }
       ],
       "version": "8.2.4",
-      "size": 68942034
+      "size": 68959829
     },
     {
       "name": "Infuse Plus (iOS14+)",
@@ -511,14 +511,14 @@
         {
           "version": "7.8.4",
           "minOSVersion": "14.0",
-          "date": "2026-07-09T08:00:00+03:00",
-          "size": 68098747,
-          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6+7.8.4.ipa",
-          "localizedDescription": "Infuse Plus v2.6\n\n- Added support for skipping intros and other segments. Configure it in the Intros section of Infuse Plus settings.\n- Added the ability to import local subtitle files alongside local videos.\n- Added an option to remember the playback speed.\n- Fixed adding and playing links in the latest versions of Infuse.\n- Improved compatibility with the latest versions of Infuse.\n- Improved localization update synchronization.\n- Added additional information about the app's functionality in the Other section"
+          "date": "2026-11-19T014:00:00+03:00",
+          "size": 68116539,
+          "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/infp_2.6.1+7.8.4.ipa",
+          "localizedDescription": "Infuse Plus v2.6.1\n\n- Added A-B Loop: an overlay button to loop a part of the video between two points. Set the points from the button menu; turning the loop on jumps to the start point, and seeking outside the range turns it off.\n- Added Tap to Skip: tap anywhere on the progress bar to jump to that position.\n- Added Control Center Skip Time: replaces the previous/next buttons in Control Center and on the Lock Screen with skip back/forward using your custom skip time.\n- Added a per-season episode offset for intros, for shows whose episode numbering differs between TMDB and IntroDB.\n- Custom skip time now also applies to the rewind buttons in the new player controls.\n- Intro segments now load when you turn the option on during playback.\n- Fixed Remember Playback Speed on newer versions of Infuse.\n- Fixed empty intro segments marking the whole episode as an intro.\n- Fixed Dolby Atmos tracks showing as Multichannel. If Remember Playback Speed was on, set the speed to 1.0× manually once."
         }
       ],
       "version": "7.8.4",
-      "size": 68098747
+      "size": 68116539
     },
     {
       "name": "OrwellVK",
